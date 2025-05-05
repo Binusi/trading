@@ -1,1 +1,1 @@
-# trading
+# Trading Algorithms
